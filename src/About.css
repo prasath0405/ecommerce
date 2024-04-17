@@ -1,0 +1,532 @@
+
+.herosimg{
+    background-color: #106b15;
+    height: 300px;
+    color: white;
+}
+.App{
+    overflow: hidden;
+}
+.herocontent{
+    text-align: center;
+    padding-top: 100px;
+}
+
+.mainaboutus{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Poppins', sans-serif;
+    gap: 20px;
+}
+.aboutussection{
+    margin-top: 20px;
+    
+}
+/* .aboutcontent p{
+    font-size: 20px;
+    padding: 40px;
+
+} */
+
+.aboutheading h1{
+    text-align: center;
+    margin-bottom: 10px;
+
+}
+.mainaboutus1{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+
+.aboutussection1{
+    margin-top: 30px;
+    
+}
+.aboutcontent1{
+    display: flex;
+    margin-top: 20px;
+}
+.aboutcontent1 p{
+    /* font-size: 20px; */
+    padding: 10px 40px;
+
+}
+.aboutimage img{
+    
+    width: 100%;
+    height: 100%;
+    margin: 30px;
+}
+
+.aboutheading1 h1{
+    text-align: center;
+
+}
+
+
+.blogheading h1{
+    text-align: center;
+    padding: 30px;
+    font-family: 'Poppins', sans-serif;
+
+
+}
+.blogmainsection{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.blog1{
+    width: 50%;
+}
+.blog2{
+    width: 50%;
+}
+.blog3{
+    width: 50%;
+}
+.blog1content{
+    margin-top: 10px;
+    border:1px solid black;
+    /* border-top: none; */
+    width: 80%;
+    margin-left: 55px;
+    /* padding: 20px; */
+
+
+
+}
+.blog1img img{
+    width: 80%;
+    margin-left: 55px;
+}
+.blog1content p{
+    /* width: 300px; */
+    padding: 20px;
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+
+}
+.blog1content h3{
+    /* text-align: center; */
+    text-align: left;
+    padding: 20px;
+    font-family: 'Poppins', sans-serif;
+
+}
+.brand{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+    margin-top: 30px;
+    background-color: #10ac18;
+    padding: 20px;
+}
+.brand img{
+    width: 100%;
+    height: 100%;
+}
+
+.readmore{
+    color: #da4c14;
+}
+
+.newssection{
+    background-color:#10ac18 ;
+    width: 100%;
+    
+    height: 100%;
+    margin-top: 50px;
+}
+.newssection{
+    /* width: 100%; */
+    padding: 40px;
+    height: auto;
+    
+}
+.newssection h1{
+    text-align: left;
+    padding-top: 50px;
+    font-family: 'Poppins', sans-serif;
+
+}
+.newssection p{
+    text-align: left;
+    padding-top: 20px;
+    font-family: 'Poppins', sans-serif;
+
+}
+.emails{
+    padding-top: 20px;
+}
+.emailinput{
+    text-align: left;
+    padding: 10px 40px;
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: #D4EFF6;
+    font-family: 'Poppins', sans-serif;
+
+
+
+}
+.emails button{
+    background-color: #0c3619;;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-left: -29px;
+    font-family: 'Poppins', sans-serif;
+
+
+
+}
+
+.mainfooters{
+    background-color:#117016;
+    width: 100%;
+    height: 100%;
+   
+}
+
+.mainfoots1{
+    margin-top: 50px;
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    padding: 30px;
+}
+.mainfoots1 .logo{
+    width: 20%;
+}
+.mainfoots1 h4{
+color: #da4c14;
+}
+
+
+
+.footertopic1 p{
+    padding-top: 20px;
+    font-family: 'Poppins', sans-serif;
+
+}
+.footertopic2 p{
+    padding-top: 20px;
+    font-family: 'Poppins', sans-serif;
+
+}
+.footertopic3 p{
+    padding-top: 20px;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.footertopic4 p{
+    padding-top: 20px;
+    font-family: 'Poppins', sans-serif;
+
+}
+.footertopic3 h5{
+    padding-top: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+.footertopic4 h5{
+    padding-top: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+.footertopic4 button{
+    margin-top: 20px;
+    font-family: 'Poppins', sans-serif;
+    border: none;
+    color: #da4c14;
+    background-color: #117016;
+}
+.bottom{
+    padding: 20px;
+}
+.mainfoot hr{
+    color: white;
+    margin: auto !important;
+    width: 400px !important;
+    /* margin-left: 180px; */
+    /* margin: 50px 180px 0px 180px; */
+}
+.socialicon img{
+    margin-left: -40px;
+}
+.app{
+    overflow: hidden;
+}
+.inside{
+    margin: 20px;
+    width: 100%;
+    height: 100%;
+}
+.inside h2{
+    font-family: 'Poppins', sans-serif;
+    color: #da4c14;
+}
+.inside h3{
+    font-family: 'Poppins', sans-serif;
+    color: #64493f;
+    margin-top: 20px;
+}
+.photo{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+   
+}
+
+@media screen and (max-width:500px){
+    .app{
+        overflow: hidden;
+
+    }
+    .socialmedia{
+        display: none;
+    }
+    .logo{
+        margin-left: 20%;
+    }
+    .mainnav {
+        margin-left: 20px;
+        margin-bottom: 20px;
+    }
+    .search{
+        display: none;
+    }
+
+    .subsectionone{
+        display: block;
+    }
+    .subsectionone img{
+        width: 100%;
+        height: 30%;
+    }
+    .mainaboutus{
+        display: block !important;
+    }
+    .aboutimage img{
+        width: 380px;
+        padding: 0px 25px 20px 25px;
+    }
+    .abouttcontent{
+        padding: 0px 10px;
+    }
+    .aboutbutton{
+        margin-left: 25%;
+        margin-bottom: 20px;
+        border: none;
+        border-radius: 7px;
+    }
+    .aboutcontent{
+        padding: 0px 10px;
+    }
+    .aboutcontent1{
+        display: block !important;
+    }
+    .aboutcontent1 p{
+        padding: 10px;
+        width: 370px;
+    }
+    .aboutimage1 img{
+        width: 350px;
+        margin-left: 10px;
+    }
+    
+
+    
+    .blogmainsection{
+        display: block !important;
+    }
+    .blog1img img{
+        margin-left: 40px !important;
+        width: 400px;
+        height: 200px;
+
+    }
+    .blog1{
+        width: 100% !important;
+        margin-top: 20px;
+    }
+    .blog1content{
+        margin-left: 40px !important;
+
+    }
+    .emails button{
+        margin-left: 30% !important;
+        margin-top: 20px;
+
+    }
+    .emails input{
+        margin-left: 10% !important;
+        margin-top: 20px;
+
+    }
+    .newssection p{
+        text-align: center;
+    }
+    .mainfootS1{.footertopic4{
+        text-align: center;
+    }
+        display: block !important;
+    }
+    .footertopic1{
+        text-align: center;
+    }
+    .footertopic2{
+        text-align: center;
+    }
+    .footertopic3{
+        text-align: center;
+    }
+    .footertopic4{
+        text-align: center;
+    }
+    .mainfoot hr{
+        margin-left: 0px !important;
+    }
+    .bottom{
+        margin-left: 0px !important;
+    }
+    .socialicon img{
+        margin-left: 2% !important;
+    }
+    .app{
+        overflow:  hidden !important;
+    }
+
+    .inside{
+        flex-wrap: wrap;
+    }
+
+}
+
+
+@media only screen and (max-width: 1024px) {
+    .app{
+        overflow: hidden;
+
+    }
+    .socialmedia{
+        display: none;
+    }
+    .logo{
+        margin-left: 2%;
+    }
+    .mainnav {
+        text-align: center;
+        margin-bottom: 20px;
+        margin-right: 80px;
+    }
+    .navbar{
+        justify-content: space-between;
+    }
+    .heroimage{
+        height: 43vh;
+
+    }
+    .search{
+        display: none;
+    }
+
+    .subsectionone{
+        display: block;
+    }
+    .subsectionone img{
+        width: 100%;
+        height: 30%;
+    }
+    .mainaboutus{
+        display: block !important;
+    }
+    .aboutimage img{
+        width: 100%;
+        padding: 0px 25px 20px 25px;
+    }
+    .aboutcontent p{
+        padding: 0px 20px !important;
+    }
+    .aboutbutton{
+        margin: auto;
+        margin-bottom: 20px;
+        border: none;
+        border-radius: 7px;
+    }
+    .aboutcontent1{
+        display: block;
+    }
+    .aboutcontent1 img{
+        width: 100%;
+    }
+    .logo img{
+        margin-left: 240px;
+    }
+
+    .blogmainsection{
+        display: block !important;
+    }
+    .blog1img img{
+        margin-left: 80px !important;
+        width: 100%;
+        height: auto;
+        /* height: 200px; */
+
+    }
+    .blog1{
+        width: 100% !important;
+        margin-top: 20px;
+    }
+    .blog1content{
+        margin-left: 80px !important;
+
+    }
+    
+    .emails input{
+        margin: auto !important;
+        /* margin: 20px; */
+
+    }
+    .emails{
+        margin: auto;
+    }
+    
+    .newssection p{
+        text-align: center;
+    }
+    .mainfoot1{
+        display: block !important;
+    }
+    .footertopic1{
+        text-align: center;
+    }
+    .footertopic2{
+        text-align: center;
+    }
+    .footertopic3{
+        text-align: center;
+    }
+    .footertopic4{
+        text-align: center;
+    }
+    .mainfoot hr{
+        margin: auto !important;
+    }
+    .bottom{
+        margin-left: 0px !important;
+    }
+    .socialicon img{
+        margin: 0px -50px !important;
+    }
+    .app{
+        overflow:  hidden !important;
+    }
+    .inside{
+        flex-wrap: wrap;
+    }
+
+}
